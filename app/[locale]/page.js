@@ -13,7 +13,7 @@ export default function Home() {
         </Link>{" "}
         |{" "}
         <Link href="/" locale="fi">
-          In Finnish
+        தமிழ்
         </Link>
         <br />
         <br />

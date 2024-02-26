@@ -10,8 +10,9 @@
   },
   "dependencies": {
     "next": "13.4.3",
-    "next-intl": "2.15.0-beta.3",
+    "next-intl": "^2.15.0-beta.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-intl": "^6.6.2"
   }
 }
